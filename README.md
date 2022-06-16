@@ -1,2 +1,4 @@
-# ASP.Net
-Examples and projects that I programmed using asp.net with EFCore
+# SeniorProjectAVOSS
+Rework done to AVOSS project.
+
+This is AVOSS, an online veterinary system!
